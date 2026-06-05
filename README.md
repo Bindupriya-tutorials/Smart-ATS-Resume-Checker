@@ -1,4 +1,4 @@
-# Smart ATS Resume Checker
+Smart ATS Resume Checker
 
 A Python-based ATS (Applicant Tracking System) Resume Checker that analyzes resumes against job descriptions and provides an ATS compatibility score.
 
